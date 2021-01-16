@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-16T17:55:20.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RGaopj19s_qjKGgwJgrf" version="14.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-16T17:55:38.264Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="y9-b4dg9yAKlHFzRQsvk" version="14.2.4" type="github" pages="5">
   <diagram id="Dv5o3WuPdHJ-4Mab7qom" name="UseCase:igranje connect 4">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,9 +300,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="yEMoFdnAdKFfJGyrHI8j-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="fK4Sz-0CPLQs7DH52uXY-1">
-          <mxGeometry x="550" y="40" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PAfj7j7yhh_MXWpTejfg-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="fK4Sz-0CPLQs7DH52uXY-1">
           <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
