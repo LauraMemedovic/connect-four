@@ -11,7 +11,7 @@ Cilj je oba igrača napraviti ravnu liniju od četiri vlastita komada; crta mož
 
 **Kako igra ide dalje**
 
-Prije početka igrači nasumično odlučuju koji će od njih biti početnik; potezi se izvode alternativno, jedan za drugim.
+Prvi igrač prvi unosi ime;zatim i drugi igrač unosi ime; prvi igrač bira boju; drugom igraču se dodjeljuje preostala boja; potezi se izvode alternativno, jedan za drugim.
 Potezi podrazumijevaju postavljanje novih komada na ploču; komadići klize prema dolje iz gornjih rupa, padajući do zadnjeg reda ili se gomilaju na posljednjem komadu uvedenom u isti stupac. Dakle, u svakom koraku predstavljeni komad može se postaviti najviše na sedam različitih kvadrata.
 
 **Pobjednik** je prvi igrač koji dobije **ravnu crtu** napravljenu s **četiri vlastita komada** i nema praznina između njih.
