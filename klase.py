@@ -8,11 +8,11 @@ class Prikaz(object):
             igrac1 = input("Odaberite boju žetona 'C' ili 'P' ")
             if igrac1.upper() == 'C':
                 igrac2='P'
-                print("Odabrali ste " + igrac1 + ". Igrac2 će imati boju: " + igrac2)
+                print("Odabrali ste " + igrac1 + ". "+i.ime2+" će imati boju: " + igrac2)
                 return igrac1.upper(),igrac2
             elif igrac1.upper() == 'P':
                 igrac2='C'
-                print("Odabrali ste " + igrac1 + ". Igrac2 će imati boju: " + igrac2)
+                print("Odabrali ste " + igrac1 + ". "+i.ime2+" će imati boju: " + igrac2)
                 return igrac1.upper(),igrac2
             else:
                 print("Molimo vas odaberite 'P' ili 'C' ")
@@ -99,7 +99,7 @@ class Igraci():
         if len(ime2)>=1:
             print("Igrač 2 : "+ime2)
             break           
-               
+              
 p=Prikaz()
 b=Bodovanje()
 i=Igraci()
@@ -140,7 +140,7 @@ class Igra(object):
                 replay=input("Želite li ponovo igrati (DA/NE) ?")
                 if replay.lower()=="ne":
                     pocetak=False
-                    print("Igra gotova")
+                    print("*"*20+"Igra gotova"+"*"*20)
                 else:
                     p=Prikaz()
                     b=Bodovanje()
