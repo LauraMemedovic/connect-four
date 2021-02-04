@@ -34,8 +34,7 @@ class Bodovanje():
                   
         while self.ploca[0][polje] != '  ':
             polje = int(input("Ovo polje je puno. Molimo vas odaberite polje između 0 i 6 :  "))
-        #if ploca[0][0]!= '  ' and ploca[0][1]!= '  ' and ploca[0][2]!= '  ' and ploca[0][3]!= '  ' and ploca[0][4]!= '  ' and ploca[0][5]!= '  ' and ploca[0][6]!= '  ':
-         #   print("Igra gotova. Neriješeno!")
+
         return polje  
         
     def jeSlobodnoPolje(self, linija, stupac):
